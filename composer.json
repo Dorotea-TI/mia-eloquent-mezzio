@@ -16,7 +16,7 @@
         "illuminate/database": "^8.20",
         "illuminate/pagination": "^8.20",
         "illuminate/filesystem": "^8.20",
-        "agencycoda/mia-core-mezzio": "dev-main"
+        "doroteati/mia-core-mezzio": "dev-main"
     },
     "autoload": {
         "psr-4": {
